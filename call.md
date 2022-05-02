@@ -1,0 +1,27 @@
+---
+layout: home_original
+---
+
+We are excited to invite you to the highly interactive virtual WOLVERINE 2022: “Workshop on Open Problems in Learning and Verification of Neural Networks”, which will be held on Thursday, August 11, during [FLoC 2022](https://www.floc2022.org/){:target="_blank"}.
+
+The goal of WOLVERINE is to foster networking and active discussions with a hope to spark new interdisciplinary collaborations. WOLVERINE welcomes researchers in formal methods, machine learning, and their intersection. 
+
+
+### <span style="color:#b11170">Workshop Schedule</span>
+<span style="color:#b11170">**First hour: keynote talk.**</span>\
+<span style="color:#b11170">**Second hour: short invited talks.**</span> We will host short invited talks (10-15min each). Each speaker will present their area of expertise in the intersection between formal methods and AI.\
+<span style="color:#b11170">**Third hour: round tables.**</span> Each speaker from the previous session will host a (virtual) table and moderate a discussion on the topic of their choice: we will discuss the challenges and open problems in the field and discuss novel approaches to tackle these challenges.
+
+Line-up of invited speakers: TBA
+
+More details: [workshop webpage](https://Wolverine-workshop/wolverine2022.github.io){:target="_blank"} 
+
+Registration costs: TBA
+
+Registration: [conference webpage](https://www.floc2022.org/registration){:target="_blank"} 
+
+Looking forward to seeing you on August 11!
+
+Kind regards,\
+WOLVERINE Team \
+Anna Lukina, Guy Avni, Mirco Giacobbe, Christian Schilling
