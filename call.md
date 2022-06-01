@@ -10,10 +10,16 @@ The goal of WOLVERINE is to foster networking and active discussions with a hope
 ### <span style="color:#b11170">Workshop Schedule</span>
 <span style="color:#b11170">**First hour: keynote talk.**</span>\
 <span style="color:#b11170">**Second hour: short invited talks.**</span> We will host three short invited talks (15-20 minutes each). Each speaker will present their area of expertise in the intersection between formal methods and AI.\
-<span style="color:#b11170">**Third hour: round tables.**</span> Each speaker from the previous session will host a table and moderate a discussion on the topic of their choice: we will discuss the challenges and open problems in the field and discuss novel approaches to tackle these challenges.\
+<span style="color:#b11170">**Third hour: round tables.**</span> Each speaker from the previous session will host a table and moderate a discussion on the topic of their choice: We will discuss the challenges and open problems in the field and discuss novel approaches to tackle these challenges.\
 <span style="color:#b11170">**Fourth hour: poster session.**</span> Participants are invited to present their work (published or ongoing) in a poster session.
 
-Line-up of invited speakers: TBA
+Invited speakers:
+
+[Suguman Bansal](https://suguman.github.io/){:target="_blank"} (University of Pennsylvania, USA): Safe Reinforcement Learning.
+	
+[Hana Chockler](https://www.hanachockler.com/){:target="_blank"} (King's College London, UK): Explainable AI.
+	
+[Dana Drachsler](https://ddana.cswp.cs.technion.ac.il/){:target="_blank"} Cohen (Technion, Israel): Neuro-Symbolic Methods.
 
 More details: [workshop webpage](https://Wolverine-workshop/wolverine2022.github.io){:target="_blank"} 
 
