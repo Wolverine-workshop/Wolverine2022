@@ -20,11 +20,13 @@ layout: home_original
 
 ### <span style="color:#b11170">Keynote</span>
 
-TBA
+[Ann Nowé](https://ai.vub.ac.be/team/ann-nowe/){:target="_blank"} (Vrije Universiteit Brussel, Belgium)
 
 ### <span style="color:#b11170">Round-Table Hosts</span>
 
-TBA
+[Suguman Bansal](https://suguman.github.io/) (University of Pennsylvania, USA): Safe Reinforcement Learning.
+[Hana Chockler](https://www.hanachockler.com/){:target="_blank"} (King's College London, UK): Explainable AI.
+[Dana Drachsler](https://ddana.cswp.cs.technion.ac.il/){:target="_blank"} Cohen (Technion, Israel): Neuro-Symbolic Methods.
 
 ### <span style="color:#b11170">Important Details</span>
 
