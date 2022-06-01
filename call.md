@@ -15,6 +15,8 @@ The goal of WOLVERINE is to foster networking and active discussions with a hope
 
 Invited speakers:
 
+[Ann Nowé](https://ai.vub.ac.be/team/ann-nowe/){:target="_blank"} (Vrije Universiteit Brussel, Belgium)
+
 [Suguman Bansal](https://suguman.github.io/){:target="_blank"} (University of Pennsylvania, USA): Safe Reinforcement Learning.
 	
 [Hana Chockler](https://www.hanachockler.com/){:target="_blank"} (King's College London, UK): Explainable AI.
