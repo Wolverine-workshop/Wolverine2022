@@ -28,7 +28,7 @@ layout: home_original
 	
 [Hana Chockler](https://www.hanachockler.com/){:target="_blank"} (King's College London, UK): Explainable AI.
 	
-[Dana Drachsler](https://ddana.cswp.cs.technion.ac.il/){:target="_blank"} Cohen (Technion, Israel): Neuro Network Robustness.
+[Dana Drachsler](https://ddana.cswp.cs.technion.ac.il/){:target="_blank"} Cohen (Technion, Israel): Neural Network Robustness.
 
 ### <span style="color:#b11170">Important Details</span>
 
