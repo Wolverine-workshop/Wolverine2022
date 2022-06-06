@@ -21,7 +21,7 @@ Invited speakers:
 	
 [Hana Chockler](https://www.hanachockler.com/){:target="_blank"} (King's College London, UK): Explainable AI.
 	
-[Dana Drachsler](https://ddana.cswp.cs.technion.ac.il/){:target="_blank"} Cohen (Technion, Israel): Neuro-Symbolic Methods.
+[Dana Drachsler](https://ddana.cswp.cs.technion.ac.il/){:target="_blank"} Cohen (Technion, Israel): Robustness of Neural Networks.
 
 More details: [workshop webpage](https://Wolverine-workshop/wolverine2022.github.io){:target="_blank"} 
 
