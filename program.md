@@ -2,7 +2,7 @@
 layout: home_original
 ---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/fontawesome.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
 
 
 ## <center><span style="color:#b11170">Interactive Program</span></center>
@@ -25,7 +25,7 @@ layout: home_original
 | 10:30 | <span class="text-nowrap"><i class="fa fa-coffee fa-fw"></i> </span> | 30-min Break / Networking / Posters | TBA |
 | 11:00 | <span class="text-nowrap"><i class="fa fa-slideshare fa-fw"></i> </span> | 20-min invited talks | TBA |
 | 12:00 | <span class="text-nowrap"><i class="fa fa-group fa-fw"></i> </span> | 30-min round-table discussions | TBA |
-| 12:30 | <span class="text-nowrap"><i class="fa fa-plate-utensils fa-fw"></i> </span> | 90-min Lunch | TBA |
+| 12:30 | <span class="text-nowrap"><i class="fa fa-utensils fa-fw"></i> </span> | 90-min Lunch | TBA |
 | 14:00 | <span class="text-nowrap"><i class="fa fa-group fa-fw"></i> </span> | 30-min round-table discussions | TBA |
 | 14:30 | <span class="text-nowrap"><i class="fa fa-coffee fa-fw"></i> </span> | Posters / Networking | TBA |
 
