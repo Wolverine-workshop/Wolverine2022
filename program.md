@@ -21,13 +21,13 @@ layout: home_original
 
 | Time | Type | Activity | Location |
 | -------- | :--------: | -------- | -------- | 
-| 09:00 | <span class="text-nowrap"><i class="fa fa-slideshare fa-fw"></i> </span> | 60-min keynote | TBA |
-| 10:30 | <span class="text-nowrap"><i class="fa fa-coffee fa-fw"></i> </span> | 30-min Break / Networking / Posters | TBA |
-| 11:00 | <span class="text-nowrap"><i class="fa fa-slideshare fa-fw"></i> </span> | 20-min invited talks | TBA |
-| 12:00 | <span class="text-nowrap"><i class="fa fa-group fa-fw"></i> </span> | 30-min round-table discussions | TBA |
-| 12:30 | <span class="text-nowrap"><i class="fa fa-cutlery fa-fw"></i> </span> | 90-min Lunch | TBA |
-| 14:00 | <span class="text-nowrap"><i class="fa fa-group fa-fw"></i> </span> | 30-min round-table discussions | TBA |
-| 14:30 | <span class="text-nowrap"><i class="fa fa-coffee fa-fw"></i> </span> | Posters / Networking | TBA |
+| 09:00 | <span class="text-nowrap"><i class="fa fa-slideshare fa-fw"></i> </span> | 60 min keynote | TBA |
+| 10:30 | <span class="text-nowrap"><i class="fa fa-coffee fa-fw"></i> </span> | 30 min break / networking / posters | TBA |
+| 11:00 | <span class="text-nowrap"><i class="fa fa-slideshare fa-fw"></i> </span> | 3x20 min invited talks | TBA |
+| 12:00 | <span class="text-nowrap"><i class="fa fa-group fa-fw"></i> </span> | 30 min round-table discussions | TBA |
+| 12:30 | <span class="text-nowrap"><i class="fa fa-cutlery fa-fw"></i> </span> | 90 min lunch | TBA |
+| 14:00 | <span class="text-nowrap"><i class="fa fa-group fa-fw"></i> </span> | 30 min round-table discussions | TBA |
+| 14:30 | <span class="text-nowrap"><i class="fa fa-coffee fa-fw"></i> </span> | posters / networking | TBA |
 
 </div>
 <div class="col-md-6" markdown="1">

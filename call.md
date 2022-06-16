@@ -15,13 +15,13 @@ The goal of WOLVERINE is to foster networking and active discussions with a hope
 
 Invited speakers:
 
-[Ann Nowé](https://ai.vub.ac.be/team/ann-nowe/){:target="_blank"} (Vrije Universiteit Brussel, Belgium): Keynote speaker.
+[**Ann Nowé**](https://ai.vub.ac.be/team/ann-nowe/){:target="_blank"} (Vrije Universiteit Brussel, Belgium): Keynote speaker.
 
-[Suguman Bansal](https://suguman.github.io/){:target="_blank"} (University of Pennsylvania, USA): Safe Reinforcement Learning.
+[**Suguman Bansal**](https://suguman.github.io/){:target="_blank"} (University of Pennsylvania, USA): Safe Reinforcement Learning.
 	
-[Hana Chockler](https://www.hanachockler.com/){:target="_blank"} (King's College London, UK): Explainable AI.
+[**Hana Chockler**](https://www.hanachockler.com/){:target="_blank"} (King's College London, UK): Explainable AI.
 	
-[Dana Drachsler](https://ddana.cswp.cs.technion.ac.il/){:target="_blank"} Cohen (Technion, Israel): Robustness of Neural Networks.
+[**Dana Drachsler**](https://ddana.cswp.cs.technion.ac.il/){:target="_blank"} Cohen (Technion, Israel): Robustness of Neural Networks.
 
 More details: [workshop webpage](https://Wolverine-workshop/wolverine2022.github.io){:target="_blank"} 
 
