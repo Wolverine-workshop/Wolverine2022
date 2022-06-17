@@ -41,7 +41,7 @@ layout: home_original
 | Artificial Intelligence | [Ann Nowé](https://ai.vub.ac.be/team/ann-nowe/){:target="_blank"} | Keynote |
 | Safe Reinforcement Learning | [Suguman Bansal](https://suguman.github.io/){:target="_blank"} | Host |
 | Explainable Artificial Intelligence | [Hana Chockler](https://www.hanachockler.com/){:target="_blank"} | Host |
-| Robustness of Neural Networks| [Dana Drachsler](https://ddana.cswp.cs.technion.ac.il/){:target="_blank"} | Host |
+| Robustness of Neural Networks| [Dana Drachsler Cohen](https://ddana.net.technion.ac.il/){:target="_blank"} | Host |
 
 </div>
 </div>
