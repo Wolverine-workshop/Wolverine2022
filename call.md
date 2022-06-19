@@ -25,7 +25,7 @@ Invited speakers:
 
 More details: [workshop webpage](https://Wolverine-workshop/wolverine2022.github.io){:target="_blank"} 
 
-Registration costs: $100 (early registration), $120 (regular registration), $140 (on-site registration)
+Registration cost: $80/$100 (early registration), $100/$120 (regular registration), $120/$140 (on-site registration)
 
 Registration: [conference webpage](https://www.floc2022.org/registration){:target="_blank"} 
 
