@@ -2,7 +2,7 @@
 layout: home_original
 ---
 
-We are excited to invite you to the highly interactive virtual WOLVERINE 2022: “Workshop on Open Problems in Learning and Verification of Neural Networks”, which will be held on Thursday, August 11, during [FLoC 2022](https://www.floc2022.org/){:target="_blank"}.
+We are excited to invite you to the highly interactive WOLVERINE 2022: “Workshop on Open Problems in Learning and Verification of Neural Networks”, which will be held on Thursday, August 11, during [FLoC 2022](https://www.floc2022.org/){:target="_blank"}.
 
 The goal of WOLVERINE is to foster networking and active discussions with a hope to spark new interdisciplinary collaborations. WOLVERINE welcomes researchers in formal methods, machine learning, and their intersection. 
 
