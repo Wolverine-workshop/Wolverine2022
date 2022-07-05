@@ -8,6 +8,7 @@ layout: home_original
 	</h2>
 	<hr class="small">
 	<p><center>Held physically in Haifa on August 11, 2022!</center></p>
+	<span style="color:#b11170"><center><h3>Consider bringing a poster for the poster session!</h3></center></span>
 </div>
 
 <div class="row">
