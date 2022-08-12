@@ -19,15 +19,15 @@ layout: home_original
 ### <span style="color:#b11170">Schedule: 09:00-15:00 IDT </span> ([converter](https://time.is/compare/900_11_Aug_2022_in_IDT/Amsterdam/Melbourne/Los_Angeles/Beijing/New_York){:target="_blank"})
 
 
-| Time | Type | Activity | Location |
-| -------- | :--------: | -------- | -------- | 
-| 09:00 | <span class="text-nowrap"><i class="fa fa-slideshare fa-fw"></i> </span> | 60 min keynote | TBA |
-| 10:30 | <span class="text-nowrap"><i class="fa fa-coffee fa-fw"></i> </span> | 30 min break / networking / posters | TBA |
-| 11:00 | <span class="text-nowrap"><i class="fa fa-slideshare fa-fw"></i> </span> | 3x20 min invited talks | TBA |
-| 12:00 | <span class="text-nowrap"><i class="fa fa-group fa-fw"></i> </span> | 30 min round-table discussions | TBA |
-| 12:30 | <span class="text-nowrap"><i class="fa fa-cutlery fa-fw"></i> </span> | 90 min lunch | TBA |
-| 14:00 | <span class="text-nowrap"><i class="fa fa-group fa-fw"></i> </span> | 30 min round-table discussions | TBA |
-| 14:30 | <span class="text-nowrap"><i class="fa fa-coffee fa-fw"></i> </span> | posters / networking | TBA |
+| Time | Type | Activity|
+| -------- | :--------: | -------- |
+| 09:00 | <span class="text-nowrap"><i class="fa fa-slideshare fa-fw"></i> </span> | 60 min keynote|
+| 10:30 | <span class="text-nowrap"><i class="fa fa-coffee fa-fw"></i> </span> | 30 min break / networking / posters|
+| 11:00 | <span class="text-nowrap"><i class="fa fa-slideshare fa-fw"></i> </span> | 3x20 min invited talks|
+| 12:00 | <span class="text-nowrap"><i class="fa fa-group fa-fw"></i> </span> | 30 min round-table discussions|
+| 12:30 | <span class="text-nowrap"><i class="fa fa-cutlery fa-fw"></i> </span> | 90 min lunch|
+| 14:00 | <span class="text-nowrap"><i class="fa fa-group fa-fw"></i> </span> | 30 min round-table discussions|
+| 14:30 | <span class="text-nowrap"><i class="fa fa-coffee fa-fw"></i> </span> | posters / networking|
 
 </div>
 <div class="col-md-6" markdown="1">
