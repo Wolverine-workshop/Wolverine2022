@@ -13,24 +13,20 @@ The goal of WOLVERINE is to foster networking and active discussions with a hope
 <span style="color:#b11170">**Third hour: round tables.**</span> Each speaker from the previous session will host a table and moderate a discussion on challenges and open problems in the field and on novel approaches to tackle them.\
 <span style="color:#b11170">**Fourth hour: poster session.**</span> Participants are invited to present their work (published or ongoing).
 
-Invited speakers:
+### <span style="color:#b11170">Invited speakers</span>
 
-[**Ann Nowé**](https://ai.vub.ac.be/team/ann-nowe/){:target="_blank"} (Vrije Universiteit Brussel, Belgium): Keynote speaker.
+[**Ann Nowé**](https://ai.vub.ac.be/team/ann-nowe/){:target="_blank"} (Vrije Universiteit Brussel, Belgium): *Keynote speaker*.\
+[**Suguman Bansal**](https://suguman.github.io/){:target="_blank"} (University of Pennsylvania, USA): *Safe Reinforcement Learning*.\
+[**Hana Chockler**](https://www.hanachockler.com/){:target="_blank"} (causaLens and King's College London, UK): *Explainable AI*.\
+[**Dana Drachsler**](https://ddana.cswp.cs.technion.ac.il/){:target="_blank"} Cohen (Technion, Israel): *Robustness of Neural Networks*.
 
-[**Suguman Bansal**](https://suguman.github.io/){:target="_blank"} (University of Pennsylvania, USA): Safe Reinforcement Learning.
-	
-[**Hana Chockler**](https://www.hanachockler.com/){:target="_blank"} (causaLens and King's College London, UK): Explainable AI.
-	
-[**Dana Drachsler**](https://ddana.cswp.cs.technion.ac.il/){:target="_blank"} Cohen (Technion, Israel): Robustness of Neural Networks.
+<!-- More details: [workshop webpage](https://wolverine-workshop.github.io/Wolverine2022){:target="_blank"}  -->
 
-More details: [workshop webpage](https://Wolverine-workshop/wolverine2022.github.io){:target="_blank"} 
-
-Registration cost: $80/$100 (early registration), $100/$120 (regular registration), $120/$140 (on-site registration)
-
+Registration cost: $80/$100 (early registration), $100/$120 (regular registration), $120/$140 (on-site registration)\
 Registration: [conference webpage](https://www.floc2022.org/registration){:target="_blank"} 
 
-Looking forward to seeing you on August 11!
+<!-- Looking forward to seeing you on August 11! -->
 
-Kind regards,\
-WOLVERINE Team \
-Anna Lukina, Guy Avni, Mirco Giacobbe, Christian Schilling
+<!-- Kind regards,\ -->
+<!-- WOLVERINE Team \ -->
+<!-- Anna Lukina, Guy Avni, Mirco Giacobbe, Christian Schilling -->

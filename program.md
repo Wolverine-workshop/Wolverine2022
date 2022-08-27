@@ -35,8 +35,7 @@ layout: home_original
 ### <span style="color:#b11170">Topics & Round-Table Hosts</span>
 
 
-    
-| Topics | Speaker | Role |
+| Topic | Speaker | Role |
 |:------------------------------------------------------------------------------------ |:----------------:|:---------------:|:----------:|:-----------:|
 | Artificial Intelligence | [Ann Nowé](https://ai.vub.ac.be/team/ann-nowe/){:target="_blank"} | Keynote |
 | Safe Reinforcement Learning | [Suguman Bansal](https://suguman.github.io/){:target="_blank"} | Host |

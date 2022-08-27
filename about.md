@@ -19,4 +19,4 @@ One of the major tasks in combining machine learning and formal methods---high p
 
 We aim to bring together researchers working on different aspects of machine learning and verification with the goal to discuss open problems and to establish collaborations for solving them. We intend to make this an exciting event for researchers worldwide, with presentations by leading scientists from both fields and discussion tables on current and future research directions.
 
-**WOLVERINE 2022** will be held at [FLoC 2022](https://floc2022.org/) on August 11, 2022.
+**WOLVERINE 2022** was held at [FLoC 2022](https://floc2022.org/) on August 11, 2022.
