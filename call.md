@@ -8,7 +8,7 @@ The goal of WOLVERINE is to foster networking and active discussions with a hope
 
 
 ### <span style="color:#b11170">Workshop Schedule</span>
-<span style="color:#b11170">**First hour: keynote talk**</span> by [Ann Nowé](https://ai.vub.ac.be/team/ann-nowe/){:target="_blank"}.\
+<span style="color:#b11170">**First hour: keynote talk**</span> by [Ann Nowé](https://ai.vub.ac.be/team/ann-nowe/){:target="_blank"} ([abstract](keynote)).\
 <span style="color:#b11170">**Second hour: short invited talks.**</span> We will host three short invited talks (15-20 minutes each). Each speaker will present their area of expertise in the intersection between formal methods and AI.\
 <span style="color:#b11170">**Third hour: round tables.**</span> Each speaker from the previous session will host a table and moderate a discussion on challenges and open problems in the field and on novel approaches to tackle them.\
 <span style="color:#b11170">**Fourth hour: poster session.**</span> Participants are invited to present their work (published or ongoing).

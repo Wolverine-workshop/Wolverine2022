@@ -19,6 +19,7 @@ navbar-links:
   About: "about"
   Call for Participation: "call"
   Interactive Program: "program"
+  Keynote: "keynote"
   Organizing Team: "team"
 
 avatar: "/resources/logo2.png"
